@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Küvet",
+        "fiyat": "2,499.99TL"
+    },
+    {
+        "name": "Jakuzi Küvet",
+        "fiyat": "4,999.99TL"
+    },
+    {
+        "name": "Klasik Küvet",
+        "fiyat": "1,799.99TL"
+    },
+    {
+        "name": "Tuvalet",
+        "fiyat": "799.99TL"
+    },
+    {
+        "name": "Akasya Tuvalet",
+        "fiyat": "1,299.99TL"
+    },
+    {
+        "name": "Dijital Tuvalet",
+        "fiyat": "2,199.99TL"
+    },
+    {
+        "name": "Lavabo",
+        "fiyat": "499.99TL"
+    },
+    {
+        "name": "Çift Kova Lavabo",
+        "fiyat": "1,099.99TL"
+    },
+    {
+        "name": "Modern Lavabo",
+        "fiyat": "1,699.99TL"
+    }
+]
