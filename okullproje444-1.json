@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ahşap Raf",
+        "fiyat": "299.99TL"
+    },
+    {
+        "name": "Metal Raf",
+        "fiyat": "199.99TL"
+    },
+    {
+        "name": "Küçük Raf",
+        "fiyat": "149.99TL"
+    },
+    {
+        "name": "Klasik Dolap",
+        "fiyat": "699.99TL"
+    },
+    {
+        "name": "Modern Dolap",
+        "fiyat": "899.99TL"
+    },
+    {
+        "name": "Geniş Dolap",
+        "fiyat": "999.99TL"
+    },
+    {
+        "name": "Tek Kişilik Yatak",
+        "fiyat": "1,199.99TL"
+    },
+    {
+        "name": "Çift Kişilik Yatak",
+        "fiyat": "1,799.99TL"
+    },
+    {
+        "name": "Ortopedik Yatak",
+        "fiyat": "2,499.99TL"
+    }
+]
